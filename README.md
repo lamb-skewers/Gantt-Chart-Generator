@@ -1,6 +1,6 @@
 ## Create a visual representation of your tasks :)
 
-#### This MATLAB script will create a Gantt chat to help you visualize your tasks and in addition to planning how to approach them, get a comprehensive idea of your work schedule. The appearance of the chart can be adjusted depending on user preference. By default, the blocks are blue and the text for the task names is white. 
+#### This MATLAB script will create a Gantt chat to help you visualize your tasks and in addition to planning how to approach them, allow you to get a comprehensive idea of your work schedule. The appearance of the chart can be adjusted depending on user preference. By default, the blocks are blue and the text for the task names is white. 
 
 ### Usage Guide
 
